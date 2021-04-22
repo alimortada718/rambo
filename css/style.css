@@ -2,17 +2,28 @@
 	margin: 0;
 	padding: 0;
 }
-body {
+main {
 	max-width: 90%;
-	text-align: center;
+	margin: auto;
 }
-
 .nh {
 	border: 1px solid black;
+	margin: 10px 10px;
+	max-height: 600px;
 }
 .image {
 	display: inline-block;
+	width: 50%;
 }
 .content {
 	display: inline-block;
+	padding: 5px;
+	text-indent: 20px;
+	width: 45%;
+	vertical-align: top;
+	border: 1px solid black;
+}
+
+.sectionTitle {
+	text-align: center;
 }
