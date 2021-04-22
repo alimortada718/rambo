@@ -9,11 +9,11 @@ main {
 .nh {
 	border: 1px solid black;
 	margin: 10px 10px;
-	max-height: 600px;
+	/*max-height: 800px;*/
 }
 .image {
 	display: inline-block;
-	width: 50%;
+	width: 48%;
 }
 .content {
 	display: inline-block;
@@ -21,7 +21,7 @@ main {
 	text-indent: 20px;
 	width: 45%;
 	vertical-align: top;
-	border: 1px solid black;
+	/*border:  1px solid black;*/
 }
 
 .sectionTitle {
