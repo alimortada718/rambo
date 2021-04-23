@@ -5,9 +5,10 @@
 main {
 	max-width: 90%;
 	margin: auto;
+	background-color: rgba(194, 194, 181, 0.3);
 }
+
 .nh {
-	border: 1px solid black;
 	margin: 10px 10px;
 	/*max-height: 800px;*/
 }
@@ -17,13 +18,32 @@ main {
 }
 .content {
 	display: inline-block;
+
 	padding: 5px;
-	text-indent: 20px;
 	width: 45%;
 	vertical-align: top;
 	/*border:  1px solid black;*/
 }
 
 .sectionTitle {
+	text-align: center;
+}
+.sectioncontent {
+	padding-left: 20px;
+	margin-bottom: 15px;
+}
+
+.headerText {
+	display: inline-block;
+
+	margin: 20px auto 30px auto;
+}
+.lucifer {
+	margin: 20px auto 30px auto;
+	text-align: center;
+	vertical-align: top;
+}
+
+header {
 	text-align: center;
 }
